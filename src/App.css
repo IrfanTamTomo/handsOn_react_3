@@ -1,0 +1,14 @@
+/* styles.css */
+.image {
+    display: block;
+    /* Mengubah elemen menjadi block agar margin auto berfungsi */
+    margin: 0 auto;
+    /* Mengatur margin secara otomatis di sekitar elemen */
+    width: 200px;
+}
+.price{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
